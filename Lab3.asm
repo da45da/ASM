@@ -1,9 +1,5 @@
 TITLE
 
-; I confirm that I will keep the content of this assignment confidential. I confirm that I have not received any unauthorized assistance in preparing for or writing this assignment. I acknowledge that a mark of 0 may be assigned for copied work.
-; Damian Attia-Barillas
-; 110076913
-; Due Oct 7, 2022
 ; This program demonstrates the assignment of registers using various means, including: single variables, constants, and arrays (both signed and unsigned, using direct-offset addressing).
 
 INCLUDE Irvine32.inc
