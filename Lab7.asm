@@ -1,9 +1,5 @@
 TITLE Lab7
 
-; I confirm that I will keep the content of this assignment confidential. I confirm that I have not received any unauthorized assistance in preparing for or writing this assignment. I acknowledge that a mark of 0 may be assigned for copied work.
-; Damian Attia-Barillas
-; 110076913
-; Due Nov 28, 2022
 ; This program 
 
 INCLUDE Irvine32.inc
