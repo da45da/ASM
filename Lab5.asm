@@ -1,9 +1,5 @@
 TITLE Lab5
 
-; I confirm that I will keep the content of this assignment confidential. I confirm that I have not received any unauthorized assistance in preparing for or writing this assignment. I acknowledge that a mark of 0 may be assigned for copied work.
-; Damian Attia-Barillas
-; 110076913
-; Due Nov 4, 2022
 ; This program generates 20 random strings of length 10 and then displays every possible colour combination for text and background
 
 INCLUDE Irvine32.inc
